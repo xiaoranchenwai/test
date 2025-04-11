@@ -1,0 +1,17 @@
+# 摘要提取服务端口
+llm_summary_port: 5020
+# 对话总结端口
+conversation_summary_api: 5021
+# 摘要提取服务ip
+host: 0.0.0.0
+# 摘要提取服务进程数
+workers: 1
+
+# 大模型服务地址
+base_url: http://10.250.2.24:8554/v1
+# 大模型名称
+llm_model_name: /home/user/Downloads/Qwen2-7B-Instruct/
+# 大模型服务api_key
+api_key: nn
+
+

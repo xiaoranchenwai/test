@@ -1,4 +1,5 @@
 # calculate.py - 改进版本
+
 def fib(n: int):
     """
     生成长度为 n 的斐波那契数列。
